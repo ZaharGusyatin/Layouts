@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="zahar_gusyatin">Zahar Gusyatin</string>
+    <string name="yellowstar">YellowStar</string>
+    <string name="aboutme">Hello
+    n\My name is Zahar
+        \n\nqwerty
+        \nqwerty
+        \n\nqwerty
+        \n\nqwerty
+        \n\nqwerty
+        \n\nqwerty
+        \n\nqwerty
+        \n\nqwerty
+        \n\nqwerty
+        \n\nqwerty
+        \n\nqwerty
+        \n\nqwerty
+        \n\nqwerty
+        \n\nqwerty
+        \n\nqwerty
+        \n\nqwerty
+
+    </string>
+    <string name="name">Name</string>
+    <string name="done">Done</string>
+</resources>
